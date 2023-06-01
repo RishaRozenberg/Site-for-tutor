@@ -1,0 +1,176 @@
+/*болд самый жирный, медиум потоньше, regular тонкий, thin самый тонкий */
+
+@font-face {
+    font-family: 'Ruberoid-Bold';
+    src: url(../fonts/Ruberoid-Bold.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ruberoid-Medium';
+    src: url(../fonts/Ruberoid-Medium.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ruberoid-Regular';
+    src: url(../fonts/Ruberoid-Regular.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ruberoid-Thin';
+    src: url(../fonts/Ruberoid-SemiBold.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+.fisrt-line-c1 p {
+    font-family: 'Ruberoid-Thin', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+}
+
+h2 {
+    font-family: 'Ruberoid-Bold', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 105px;
+    color: #262628;
+}
+
+.main-content-2 p {
+    font-family: 'Ruberoid-Thin', serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+}
+
+.marquee {
+    font-family: 'Ruberoid-Regular', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    color: white;
+}
+
+.punkt-medium-rate,
+.main-content-3 .main-button-s3,
+.header-text a {
+    font-family: 'Ruberoid-Thin', serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    color: #262628;
+    text-decoration: none;
+}
+
+
+.tittle-rate {
+    font-family: 'Ruberoid-Regular', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+    color: #262628;
+}
+
+.total-rate p {
+    font-family: 'Ruberoid-Bold', serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    color: #262628;
+}
+
+.total-rate .main-button-s3 {
+    background-color: transparent;
+    font-family: 'Ruberoid-Thin', serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    color: #262628;
+}
+
+.text-me {
+    font-family: 'Ruberoid-Thin', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.first-line-review p {
+    font-family: 'Ruberoid-Thin', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #fff;
+    box-sizing: border-box;
+    padding-right: 30px;
+    margin: 0px;
+}
+
+.text-review {
+    font-family: 'Ruberoid-Regular', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    color: #fff;
+    margin: 30px;
+}
+
+.question {
+    font-family: 'Ruberoid-Regular', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    color: #BCE73E;
+}
+
+.text-answer {
+    font-family: 'Ruberoid-Thin', serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFF;
+}
+
+.column-c5 p {
+    font-family: 'Ruberoid-Medium', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 59px;
+    color: #262628;
+    padding: 0px;
+    margin-top: 0px;
+    box-sizing: border-box;
+}
+
+form button {
+    font-family: 'Ruberoid-Bold', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.inputs input {
+    font-family: 'Ruberoid-Regular', serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+}
+
+footer {
+    font-family: 'Ruberoid-Regular', serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+}

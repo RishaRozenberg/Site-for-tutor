@@ -1,0 +1,64 @@
+/* Тариф Медиум и Минимум */
+
+.sagit-down {
+    width: 83.33px;
+    height: 83.33px;
+    background-image: url(../images/Vector-rate-down.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: transparent;
+    border: none;
+    margin-top: 10px;
+}
+
+.sagit-down:after {
+    content: none;
+}
+
+.sagit-down.sagit-up:after {
+    content: none;
+
+}
+
+.sagit-down.sagit-up {
+    background-image: url(../images/Vector-rate-up.svg);
+    background-color: transparent;
+    border: none;
+}
+
+/* Ответы на вопросы */
+
+.question-down {
+    width: 83.33px;
+    height: 83.33px;
+    background-image: url(../images/green-arrow-down.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: transparent;
+    border: none;
+    margin-top: 10px;
+}
+
+.question-down:after {
+    content: none;
+}
+
+.question-down.question-up:after {
+    content: none;
+
+}
+
+.question-down.question-up {
+    background-image: url(../images/green-arrow-up1.svg);
+    background-color: transparent;
+    border: none;
+}
+
+
+
+/* Динамические кнопки */
+.sent:hover:hover,
+.main-button-s3:hover:hover {
+    background-color: #262628;
+    color: white;
+}
